@@ -42,8 +42,6 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 
 ### Other Experience
 
----
-
 [STEM Ambassador](https://www.qut.edu.au/study/career-advisers-and-teachers/young-accelerators)
 <br>
 <img src="images/VRE.jpg?raw=true"/>
@@ -54,6 +52,7 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 <img src="images/VRE.jpg?raw=true"/>
 <p> To be updated. </p>  
 ---
+### Awards
 <p> To be updated. </p>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
