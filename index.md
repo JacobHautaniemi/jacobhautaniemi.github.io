@@ -23,25 +23,33 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 <img src="images/2019.jpg?raw=true"/>
 <br>
 <p> Over the summer of 2019/2020 I was fortunate enough to research the migration patterns of chemotherapy to better understand this process on a mathematical scale. Within this project I also simulated mechanisms to bias its migration, which is important as chemotherapy currently kills both malignant and healthy cells. </p>
+
 ---
+
 [Predictive Model for Aneurysm](https://research.qut.edu.au/biofabrication/)
 <br>
 <img src="images/VRES.jpg?raw=true"/>
 <p> Over the following summer I will be studying within QUT's biofabrication and tissue morphology lab to create a predictive model for Aneurysms. To be updated soon. </p>  
+
 ---
-[Temperature Spatial Analysis]
+
+[Temperature Spatial Analysis]()
 <br>
 <img src="images/VRE.jpg?raw=true"/>
 <p> To be updated. </p>  
+
 ---
+
 ### Other Experience
+
 ---
+
 [STEM Ambassador](https://www.qut.edu.au/study/career-advisers-and-teachers/young-accelerators)
 <br>
 <img src="images/VRE.jpg?raw=true"/>
 <p> To be updated. </p>  
 ---
-[Retail Assistant]
+[Retail Assistant]()
 <br>
 <img src="images/VRE.jpg?raw=true"/>
 <p> To be updated. </p>  
