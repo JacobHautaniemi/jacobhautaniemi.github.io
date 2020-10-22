@@ -15,7 +15,7 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 <br>
 <img src="images/MRI.jpg?raw=true"/>
 <br>
-<p>Within my undergraduate classwork I have taken a keen interest to the operation of MRI. As an aspiring mathematician and physcist, I am able to pursue this from two disjoint yet complimentary perspectives. Truly, it is quantum physics that provides the theoretical framework for operation, but mathematics that allows for the extraction of this data in meaningful ways.  </p>
+<p>Within my undergraduate classwork I have taken a keen interest to the operation of MRI. As an aspiring mathematician and physcist, I am able to pursue this from two disjoint yet complimentary perspectives. Truly, it is quantum physics that provides the theoretical framework for operation, but mathematics that allows for the extraction of this data in meaningful ways. <br> Acknowledgement to Evelyn Chen for her contribution on this task.</p>
 
 ---
 [Biased Migration of Chemotherapy](/pdf/Poster.pdf)
@@ -54,6 +54,10 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 ---
 ### Awards
 <p> To be updated. </p>
+
+---
+### Academic Transcript()
+<p> Please click the "Academic Transcipt" hyperlink above to be redirected to my academic transcript. </p>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
