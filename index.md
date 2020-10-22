@@ -29,7 +29,23 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 <img src="images/VRES.jpg?raw=true"/>
 <p> Over the following summer I will be studying within QUT's biofabrication and tissue morphology lab to create a predictive model for Aneurysms. To be updated soon. </p>  
 ---
-### Experience
+[Temperature Spatial Analysis]
+<br>
+<img src="images/VRE.jpg?raw=true"/>
+<p> To be updated. </p>  
+---
+### Other Experience
+---
+[STEM Ambassador](https://www.qut.edu.au/study/career-advisers-and-teachers/young-accelerators)
+<br>
+<img src="images/VRE.jpg?raw=true"/>
+<p> To be updated. </p>  
+---
+[Retail Assistant]
+<br>
+<img src="images/VRE.jpg?raw=true"/>
+<p> To be updated. </p>  
+---
 <p> To be updated. </p>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
