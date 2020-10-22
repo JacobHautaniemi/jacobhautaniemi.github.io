@@ -13,7 +13,7 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 
 [Construction of MRI Interface](https://www.youtube.com/watch?v=b_wwrg5Yfdg&feature=youtu.be&fbclid=IwAR0V7qOEK7GAJHwlKYwG2Y4WyS5Lpq7eVI7lryMDePxtbFJky8-QqydrXo4&ab_channel=JacobHautaniemi)
 <br>
-<img src="images/MRI?raw=true"/>
+<img src="images/MRI.jpg?raw=true"/>
 <br>
 <p>Within my undergraduate classwork I have taken a keen interest to the operation of MRI. As an aspiring mathematician and physcist, I am able to pursue this from two disjoint yet complimentary perspectives. Truly, it is quantum physics that provides the theoretical framework for operation, but mathematics that allows for the extraction of this data in meaningful ways.  </p>
 
