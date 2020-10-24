@@ -13,14 +13,14 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 [Predictive Model for Aneurysm](https://research.qut.edu.au/biofabrication/)
 <br>
 <img src="images/VRES.jpg?raw=true"/>
-<p> Over the following summer I will be studying within QUT's biofabrication and tissue morphology lab to create a predictive model for Aneurysms. Although the specifications of this project are currently confidential there is a large potential for helping others through a combination of simulation and verification. </p>  
+<p> Over the following summer I will be studying within QUT's biofabrication and tissue morphology lab to create a predictive model for aneurysms. Although the specifications of this project are currently confidential there is a large potential for helping others through a combination of simulation and verification. There is hope that this project will directly benefit the lives of those suffering aneurysms. </p>  
 
 ---
 [Biased Migration of Chemotherapy](/pdf/Poster.pdf)
 <br>
 <img src="images/2019.jpg?raw=true"/>
 <br>
-<p> Over the summer of 2019/2020 I was fortunate enough to research the migration patterns of chemotherapy to better understand this process on a mathematical scale. Within this project I also simulated mechanisms to bias its migration, which is important as chemotherapy currently kills both malignant and healthy cells. </p>
+<p> Over the summer of 2019/2020 I was fortunate enough to research the migration patterns of chemotherapy to better understand this process on a mathematical scale. Within this project I also simulated mechanisms to bias its migration, which is important as chemotherapy currently kills both malignant and healthy cells. My simulations had strong supporting evidence that to mitigate this we should invest in shielding techniques instead of changing chemotherapy itself. </p>
 
 ---
 
@@ -28,7 +28,7 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 <br>
 <img src="images/MRI.jpg?raw=true"/>
 <br>
-<p> Within my undergraduate classwork I have taken a keen interest to the operation of MRI. As an aspiring mathematician and physcist, I am able to pursue this from two disjoint yet complimentary perspectives. Truly, it is quantum physics that provides the theoretical framework for operation, but mathematics that allows for the extraction of this data in meaningful ways. <br> <i>Acknowledgement to Evelyn Chen for her contribution on this task.</i></p>
+<p> Within my undergraduate classwork I have taken a keen interest to the operation of MRI. As an aspiring mathematician and physcist, I am able to pursue this from two disjoint yet complimentary perspectives. Truly, it is quantum physics that provides the theoretical framework for operation, but mathematics that allows for the extraction of this data in meaningful ways. Within this project I coded the interface of an MRI machine and was successfully able to digitally reconstruct the slice of the brain you see above.<br> <i>Acknowledgement to Evelyn Chen for her contribution on this task.</i></p>
 
 
 ---
