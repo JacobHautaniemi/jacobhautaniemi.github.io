@@ -24,7 +24,7 @@ In my introductory and now upper-level coursework, I've developed a keen interes
 
 ---
 
-[Construction of MRI Interface](https://www.youtube.com/watch?v=b_wwrg5Yfdg&feature=youtu.be&fbclid=IwAR0V7qOEK7GAJHwlKYwG2Y4WyS5Lpq7eVI7lryMDePxtbFJky8-QqydrXo4&ab_channel=JacobHautaniemi)
+[Construction of MRI Interface](https://youtu.be/b_wwrg5Yfdg?t=89)
 <br>
 <img src="images/MRI.jpg?raw=true"/>
 <br>
